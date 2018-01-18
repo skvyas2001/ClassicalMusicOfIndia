@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hooks\\after_prepare",
+    "\\www",
+    "\\www\\lib",
+    "\\www\\lib\\ionic",
+    "\\www\\lib\\ionic\\js",
+    "\\www\\lib\\ionic\\js\\angular",
+    "\\www\\lib\\ionic\\js\\angular-ui",
+    "\\www\\templates"
+  ],
+  "SelectedNode": "\\www\\lib",
+  "PreviewInSolutionExplorer": false
+}
